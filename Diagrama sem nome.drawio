@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T21:12:39.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xGKU_RrnldFvzCuygfGY" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T21:17:16.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eRWaX8oRvOwp-uQB5DBT" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="286.25" y="791.7199999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-17" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="731.25" y="645.31" width="50" height="50" as="geometry" />
+          <mxGeometry x="286.25" y="855" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-18" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
           <mxGeometry x="281.25" y="920" width="60" height="40" as="geometry" />
@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-160" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" vertex="1" parent="1">
-          <mxGeometry x="291.25" y="860" width="40" height="40" as="geometry" />
+          <mxGeometry x="291.25" y="1040" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-161" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-6" target="8iISEX3J9LfXSxGd36D7-9">
           <mxGeometry relative="1" as="geometry">
@@ -431,6 +431,64 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-163" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.712;exitY=1.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;dashed=1;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="8iISEX3J9LfXSxGd36D7-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="770" as="sourcePoint" />
+            <mxPoint x="602" y="918" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-164" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=30;" connectable="0" vertex="1" parent="8iISEX3J9LfXSxGd36D7-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-165" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;dashed=1;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="8iISEX3J9LfXSxGd36D7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="940" as="sourcePoint" />
+            <mxPoint x="224" y="1088" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-166" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=45;" connectable="0" vertex="1" parent="8iISEX3J9LfXSxGd36D7-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="8iISEX3J9LfXSxGd36D7-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="844.69" as="sourcePoint" />
+            <mxPoint x="140" y="929.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-168" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-50;" connectable="0" vertex="1" parent="8iISEX3J9LfXSxGd36D7-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-169" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="8iISEX3J9LfXSxGd36D7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51.25" y="950" as="sourcePoint" />
+            <mxPoint x="211.25" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-170" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-30;" connectable="0" vertex="1" parent="8iISEX3J9LfXSxGd36D7-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-171" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="8iISEX3J9LfXSxGd36D7-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="910" as="sourcePoint" />
+            <mxPoint x="220" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-172" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="8iISEX3J9LfXSxGd36D7-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-174" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
+          <mxGeometry x="283.75" y="1100" width="57.5" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
