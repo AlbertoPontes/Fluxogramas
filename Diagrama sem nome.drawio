@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T21:04:53.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RH6jZLkvFehV3q60zBH2" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T21:07:03.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Y5Fpq8qsN607nzBGGSFk" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,19 +32,19 @@
           <mxGeometry x="429.38" y="761.56" width="41.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="730" y="585.31" width="50" height="50" as="geometry" />
+          <mxGeometry x="285" y="818.4399999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-16" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="730" y="657.81" width="50" height="50" as="geometry" />
+          <mxGeometry x="285" y="881.7199999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-17" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="730" y="735.31" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-18" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
-          <mxGeometry x="725" y="808.44" width="60" height="40" as="geometry" />
+          <mxGeometry x="280" y="1010" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
-          <mxGeometry x="725" y="894.69" width="60" height="40" as="geometry" />
+          <mxGeometry x="280" y="1070" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-54" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="610" y="645.31" width="50" height="50" as="geometry" />
@@ -423,6 +423,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8iISEX3J9LfXSxGd36D7-160" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" vertex="1" parent="1">
+          <mxGeometry x="290" y="950" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
