@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T20:40:48.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="THKKJu3c6hzOzwUyNfyF" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T20:41:10.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="thQF5-JydnCcb6PckQvj" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,11 +21,6 @@
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
           <mxGeometry x="38.75" y="470" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8iISEX3J9LfXSxGd36D7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-9" target="8iISEX3J9LfXSxGd36D7-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="702.5" y="340" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8iISEX3J9LfXSxGd36D7-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite_dish;direction=east;" vertex="1" parent="1">
           <mxGeometry x="740" y="238.75" width="45" height="40" as="geometry" />
