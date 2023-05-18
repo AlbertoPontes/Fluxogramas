@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T13:07:40.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LVAYNVD5FCqEs_fvp_NH" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:08:54.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jH-1gNfm5MMQDE5rD-6W" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,6 +704,23 @@
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-70" value="Monitoramento de Silos -&amp;nbsp;&lt;br&gt;Getafi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="247.44" y="1013.59" width="78.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-71" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
+          <mxGeometry x="45" y="770.47" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-8" target="3DsCbavRyjIyRatLUJxJ-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="497.5" as="sourcePoint" />
+            <mxPoint x="16" y="850.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-73" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-74" value="NVR - 32 Canais Intelbrás" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="793.28" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
