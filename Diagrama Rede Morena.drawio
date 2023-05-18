@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T17:34:57.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ieViFJ7CGB1WE2ZX1_SS" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T17:36:34.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wXUDSozfvN5fA82Zn2L6" version="21.3.2" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,13 +570,13 @@
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-127" value="Omnitik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="536.25" y="148.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-128" value="SXT - Casa Rafael" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-128" value="SXT - Laboratório" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="596.25" y="253.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-129" value="SXT - Casa Ariel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="733.75" y="178.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-130" value="Roteador - Casa Rafael" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-130" value="Roteador - Laboratório" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="648.75" y="408.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-131" value="Roteador - Casa Ariel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
