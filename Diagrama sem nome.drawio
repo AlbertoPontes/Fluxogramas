@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T12:53:55.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k8XneWz_KrKj-EAPtDVS" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T12:56:28.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZaZo5pd8tq9jnarQ0lKm" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -639,8 +639,8 @@
         <mxCell id="3DsCbavRyjIyRatLUJxJ-52" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="632.5" y="399.99999999999994" width="44.38" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-54" value="Roteador&lt;br&gt;Almoxarifado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="414" y="916.0899999999999" width="60" height="30" as="geometry" />
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-54" value="Roteador&lt;br&gt;Fazenda Deicisão" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="411.75" y="916.09" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-55" value="Torre -&amp;nbsp;&lt;br&gt;Chegada da rede&lt;br&gt;(FTTH e Wireless)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="469" y="193.75" width="60" height="30" as="geometry" />
