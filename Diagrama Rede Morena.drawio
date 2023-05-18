@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T17:36:34.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wXUDSozfvN5fA82Zn2L6" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T17:40:52.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YLfuB4reHdMFfqX0S2wg" version="21.3.2" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,13 +58,10 @@
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-18" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="231.56" width="20" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="251.25" y="231.25" width="20" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-20" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mtDc0xT71T_Rfm2EKFGz-19">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-20" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" target="mtDc0xT71T_Rfm2EKFGz-178">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380.25" y="239.5" as="sourcePoint" />
-            <mxPoint x="310.25" y="239.5" as="targetPoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-21" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;" connectable="0" vertex="1" parent="mtDc0xT71T_Rfm2EKFGz-20">
@@ -72,9 +69,9 @@
             <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-22" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mtDc0xT71T_Rfm2EKFGz-18">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-22" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mtDc0xT71T_Rfm2EKFGz-18" source="mtDc0xT71T_Rfm2EKFGz-178">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="251.25" y="239.5" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="sourcePoint" />
             <mxPoint x="100" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -164,8 +161,8 @@
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-40" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310.63" y="665.31" width="20" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-41" value="Conversor&lt;br style=&quot;font-size: 8px;&quot;&gt;de&lt;br style=&quot;font-size: 8px;&quot;&gt;Mídia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="231.25" y="248.75" width="60" height="30" as="geometry" />
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-41" value="Switch&lt;br&gt;Mikrotik&lt;br&gt;CRS212-1G-10S-1S+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230.63" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-42" value="Conversor&lt;br style=&quot;font-size: 8px;&quot;&gt;de&lt;br style=&quot;font-size: 8px;&quot;&gt;Mídia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160.63" y="387.5" width="60" height="30" as="geometry" />
@@ -555,7 +552,7 @@
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-122" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;rounded=1;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="444" y="208.75" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-123" value="Switch 8 Portas - Torre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-123" value="RB760IGS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="371.25" y="201.56" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-124" value="Switch 16 Portas - Sala Reunião" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
@@ -744,6 +741,9 @@
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-177" value="Switch 8 Portas -&amp;nbsp;&lt;br&gt;Poste Alojamentos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="413.94" y="433" width="69.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-178" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240.63" y="231.86999999999995" width="40" height="17.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
