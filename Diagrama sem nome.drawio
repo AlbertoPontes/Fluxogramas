@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T13:38:03.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="90IRQe9J4UdEAvoqhcd9" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:39:16.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="upusXhP2NtKXuI3pkbyF" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -607,16 +607,16 @@
           <mxGeometry x="764.37" y="880.31" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-43" value="Notebook - Rafael Soares" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="606" y="901.0899999999999" width="60" height="30" as="geometry" />
+          <mxGeometry x="614" y="898.9999999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-44" value="Notebook -Fabiano" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="946.0899999999999" width="60" height="30" as="geometry" />
+          <mxGeometry x="614" y="946.0899999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-45" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="426.56" y="941.56" width="44.38" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-46" value="Impressora Esc-Dec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="994.53" width="60" height="30" as="geometry" />
+          <mxGeometry x="614" y="994.53" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-47" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="487.80999999999995" y="554.06" width="44.38" height="37.5" as="geometry" />
@@ -726,7 +726,7 @@
           <mxGeometry x="560" y="836.56" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-77" value="Notebook - Rafael Ripp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="606" y="841.56" width="60" height="30" as="geometry" />
+          <mxGeometry x="620" y="841.56" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-78" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="432.75" y="473.74999999999994" width="41.25" height="10" as="geometry" />
