@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T13:14:46.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QNq4GpOsKuBcmmIcfrrB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:27:56.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="elnzHCCXEr5sZnZHauo-" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,24 +252,24 @@
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iISEX3J9LfXSxGd36D7-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8iISEX3J9LfXSxGd36D7-79" target="3DsCbavRyjIyRatLUJxJ-48" edge="1">
+        <mxCell id="8iISEX3J9LfXSxGd36D7-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.336;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iISEX3J9LfXSxGd36D7-79" target="3DsCbavRyjIyRatLUJxJ-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="371.25" y="545.25" as="sourcePoint" />
             <mxPoint x="470" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iISEX3J9LfXSxGd36D7-127" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;" parent="8iISEX3J9LfXSxGd36D7-126" connectable="0" vertex="1">
+        <mxCell id="8iISEX3J9LfXSxGd36D7-127" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-35;" parent="8iISEX3J9LfXSxGd36D7-126" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iISEX3J9LfXSxGd36D7-129" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="3DsCbavRyjIyRatLUJxJ-48" target="3DsCbavRyjIyRatLUJxJ-52" edge="1">
+        <mxCell id="8iISEX3J9LfXSxGd36D7-129" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="3DsCbavRyjIyRatLUJxJ-78" target="3DsCbavRyjIyRatLUJxJ-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="479" as="sourcePoint" />
             <mxPoint x="620" y="479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iISEX3J9LfXSxGd36D7-130" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;" parent="8iISEX3J9LfXSxGd36D7-129" connectable="0" vertex="1">
+        <mxCell id="8iISEX3J9LfXSxGd36D7-130" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=30;" parent="8iISEX3J9LfXSxGd36D7-129" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-6" as="offset" />
           </mxGeometry>
@@ -463,10 +463,10 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="3DsCbavRyjIyRatLUJxJ-45">
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="1040" as="sourcePoint" />
-            <mxPoint x="420" y="980.81" as="targetPoint" />
+            <mxPoint x="420" y="955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-2" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=30;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-1">
@@ -606,16 +606,16 @@
         <mxCell id="3DsCbavRyjIyRatLUJxJ-42" value="Roteador&lt;br&gt;Almoxarifado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="764.37" y="880.31" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-43" value="Notebook - Raimundo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-43" value="Notebook - Rafael Soares" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="606" y="901.0899999999999" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-44" value="Notebook - Raimundo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-44" value="Notebook -Fabiano" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="603.5" y="946.0899999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-45" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="426.56" y="941.56" width="44.38" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-46" value="Notebook - Raimundo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-46" value="Impressora Esc-Dec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="603.5" y="994.53" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-47" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
@@ -652,15 +652,15 @@
           <mxGeometry x="473.75" y="880.31" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-59" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
-          <mxGeometry x="426.56" y="1006.0899999999999" width="44.38" height="37.5" as="geometry" />
+          <mxGeometry x="426.56" y="1013.5899999999999" width="44.38" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-60" value="Roteador&lt;br&gt;Decisão Convidado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="473.75" y="1013.59" width="78.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DsCbavRyjIyRatLUJxJ-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="3DsCbavRyjIyRatLUJxJ-59">
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.63" y="891.09" as="sourcePoint" />
-            <mxPoint x="387.63" y="1016.09" as="targetPoint" />
+            <mxPoint x="424" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-62" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=40;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-61">
@@ -721,6 +721,26 @@
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-75" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
           <mxGeometry x="49.379999999999995" y="442.99999999999994" width="41.25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-76" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="560" y="836.56" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-77" value="Notebook - Rafael Ripp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="606" y="841.56" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-78" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
+          <mxGeometry x="390" y="417.49999999999994" width="41.25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3DsCbavRyjIyRatLUJxJ-78" target="3DsCbavRyjIyRatLUJxJ-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541" y="489" as="sourcePoint" />
+            <mxPoint x="643" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-80" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=15;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
