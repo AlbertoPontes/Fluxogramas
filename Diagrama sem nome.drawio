@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T12:56:28.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZaZo5pd8tq9jnarQ0lKm" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T13:04:18.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Lgr9zTHxRq-GejdzpLIe" version="21.3.2" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -565,7 +565,7 @@
           <mxGeometry x="10" y="348.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-28" value="Switch 16 Portas - Sala Administrativo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140.63" y="763.28" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="763.28" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-29" value="Switch 8 Portas - Almoxarifado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="576.56" width="60" height="30" as="geometry" />
@@ -653,6 +653,57 @@
         </mxCell>
         <mxCell id="3DsCbavRyjIyRatLUJxJ-58" value="Desktop - &lt;br&gt;Brucy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="473.75" y="820.31" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-59" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
+          <mxGeometry x="426.56" y="946.0899999999999" width="44.38" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-60" value="Roteador&lt;br&gt;Decisão Convidado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="473.75" y="953.59" width="78.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="3DsCbavRyjIyRatLUJxJ-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.63" y="831.09" as="sourcePoint" />
+            <mxPoint x="387.63" y="956.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-62" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=40;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-63" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.community;" vertex="1" parent="1">
+          <mxGeometry x="261.88" y="889.68" width="48.12" height="60.32" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-64" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="170.63" y="896.64" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="3DsCbavRyjIyRatLUJxJ-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="21.25" y="946.64" as="sourcePoint" />
+            <mxPoint x="251.25" y="1130.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-66" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=60;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-157" target="3DsCbavRyjIyRatLUJxJ-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9.370000000000005" y="900" as="sourcePoint" />
+            <mxPoint x="220.63" y="1084" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-68" value="Par Trançado" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;" connectable="0" vertex="1" parent="3DsCbavRyjIyRatLUJxJ-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-69" value="Desktop -&amp;nbsp;&lt;br&gt;Monitoramento&lt;br&gt;Getafi/Irriger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="156.51" y="953.59" width="78.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DsCbavRyjIyRatLUJxJ-70" value="Monitoramento de Silos -&amp;nbsp;&lt;br&gt;Getafi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="247.44" y="953.59" width="78.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
