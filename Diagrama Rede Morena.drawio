@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T17:42:38.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sNoF4jyhQFcVlbbX-tJw" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T21:04:24.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-RUr1whAnG2fRsLzi5an" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -552,8 +552,8 @@
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-123" value="RB760IGS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="371.25" y="201.56" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-124" value="Switch 16 Portas - Sala Reunião" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="408.75" width="60" height="30" as="geometry" />
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-124" value="Switch 08 Portas - Almoxarifado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="110.01" y="276.4" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-125" value="Switch 16 Portas - Sala Administrativo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="130" y="823.28" width="60" height="30" as="geometry" />
@@ -697,7 +697,7 @@
           <mxGeometry x="247.44" y="1013.59" width="78.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-167" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="770.47" width="50" height="20" as="geometry" />
+          <mxGeometry x="28.75" y="1051.0900000000001" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-168" value="" style="endArrow=classic;html=1;rounded=1;" parent="1" source="mtDc0xT71T_Rfm2EKFGz-171" target="mtDc0xT71T_Rfm2EKFGz-167" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -711,10 +711,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-170" value="NVR - 32 Canais Intelbrás" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="793.28" width="60" height="30" as="geometry" />
+          <mxGeometry x="28.75" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-171" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="49.379999999999995" y="442.99999999999994" width="41.25" height="10" as="geometry" />
+          <mxGeometry x="88.75" y="306.4" width="41.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-172" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="836.56" width="60" height="40" as="geometry" />
@@ -761,6 +761,9 @@
         </mxCell>
         <mxCell id="2CgIQUD_HwFbcq3ERgBm-5" value="Switch&lt;br&gt;POE Hikvision - CFTV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="231.25" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CgIQUD_HwFbcq3ERgBm-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="53.75" y="362.5" width="41.25" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
