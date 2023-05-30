@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:17:38.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qVDYd_QotbzuQaCxPuQs" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:17:46.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oTwH2T-C3xTvR6SqEmg9" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,9 +224,6 @@
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-151" value="Torre -&amp;nbsp;&lt;br&gt;Chegada da rede&lt;br&gt;(Wireless)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="469" y="253.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-159" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.community;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="483.44" y="1024.53" width="48.12" height="60.32" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-167" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="534.38" y="585.0000000000002" width="50" height="20" as="geometry" />
