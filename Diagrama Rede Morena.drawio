@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:33:07.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="T46ojAfSSS4Pe8O_fMku" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:38:14.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TH1og5MTurEHy0cUXc1t" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,10 +448,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="538.7600000000001" y="376.09999999999997" width="41.25" height="10" as="geometry" />
+          <mxGeometry x="444.0000000000001" y="376.09999999999997" width="41.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-42" value="Switch 09 Portas SFP - Escritório" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="531.55" y="451.40999999999997" width="60" height="30" as="geometry" />
+          <mxGeometry x="536.88" y="460.74999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-44" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="540.93" y="494.65999999999997" width="41.25" height="10" as="geometry" />
@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-47" value="Switch 08 Portas SG - Laboratório e Alojamentos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="529.3800000000001" y="396.1000000000001" width="60" height="30" as="geometry" />
+          <mxGeometry x="434.6200000000001" y="336.1000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-48" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="646.25" y="474.65999999999997" width="50" height="50" as="geometry" />
@@ -582,6 +582,40 @@
         </mxCell>
         <mxCell id="PZYnGMTpdF-elsgq9s0X-27" value="Impressora -&lt;br&gt;Brother 1617nw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="743.75" y="765.79" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-29" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="561.0000000000001" y="372.49999999999994" width="44.38" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-31" value="Roteador&lt;br&gt;Lab Morena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="501.62000000000006" y="384.69" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-32" value="Desktop - Laboratório&lt;br&gt;Morena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="506.62000000000006" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-33" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="mtDc0xT71T_Rfm2EKFGz-147" target="PZYnGMTpdF-elsgq9s0X-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689" y="294" as="sourcePoint" />
+            <mxPoint x="689" y="383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-34" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=30;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-35" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="mtDc0xT71T_Rfm2EKFGz-147" target="PZYnGMTpdF-elsgq9s0X-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="304" as="sourcePoint" />
+            <mxPoint x="699" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-36" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
