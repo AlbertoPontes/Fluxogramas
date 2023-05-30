@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:14:15.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ze5A1UIrthlv1jPFpoID" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:17:21.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lrlgEHnDUjjiaOnyOLz_" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
           <mxGeometry x="483.44" y="1024.53" width="48.12" height="60.32" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-167" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="767" y="1130.0000000000002" width="50" height="20" as="geometry" />
+          <mxGeometry x="534.38" y="585.0000000000002" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-168" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2CgIQUD_HwFbcq3ERgBm-7" target="mtDc0xT71T_Rfm2EKFGz-174" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-170" value="NVR - 32 Canais Intelbrás" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="760.31" y="1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="531.55" y="605" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mtDc0xT71T_Rfm2EKFGz-171" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="88.75" y="470.75" width="41.25" height="10" as="geometry" />
@@ -445,13 +445,13 @@
             <mxPoint x="580" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EAprUsOKvEmy7xqBj63X-40" value="FTTH" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-10;rounded=1;" parent="EAprUsOKvEmy7xqBj63X-39" connectable="0" vertex="1">
+        <mxCell id="EAprUsOKvEmy7xqBj63X-40" value="FTTH" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;rounded=1;" parent="EAprUsOKvEmy7xqBj63X-39" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="540.9300000000001" y="344.99999999999994" width="41.25" height="10" as="geometry" />
+          <mxGeometry x="538.7600000000001" y="376.09999999999997" width="41.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-42" value="Switch 09 Portas SFP - Escritório" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="531.55" y="451.40999999999997" width="60" height="30" as="geometry" />
@@ -471,7 +471,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-47" value="Switch 08 Portas SG - Laboratório e Alojamentos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="531.5600000000001" y="365.00000000000006" width="60" height="30" as="geometry" />
+          <mxGeometry x="529.3800000000001" y="396.1000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EAprUsOKvEmy7xqBj63X-48" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="646.25" y="474.65999999999997" width="50" height="50" as="geometry" />
@@ -551,6 +551,34 @@
         </mxCell>
         <mxCell id="PZYnGMTpdF-elsgq9s0X-18" value="Roteador&lt;br&gt;Morena Convidado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690.3100000000001" y="550.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="84.38" y="394.6900000000002" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-21" value="NVR - 32 Canais Intelbrás" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79.38" y="366.09999999999997" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-22" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="EAprUsOKvEmy7xqBj63X-44" target="mtDc0xT71T_Rfm2EKFGz-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689" y="294" as="sourcePoint" />
+            <mxPoint x="689" y="383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-23" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-24" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="PZYnGMTpdF-elsgq9s0X-19" target="mtDc0xT71T_Rfm2EKFGz-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="304" as="sourcePoint" />
+            <mxPoint x="699" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-25" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=90;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
