@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:17:46.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oTwH2T-C3xTvR6SqEmg9" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:32:44.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vWTAC14IWqUtbMh9N852" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="70" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtDc0xT71T_Rfm2EKFGz-25" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-30;rounded=1;" parent="mtDc0xT71T_Rfm2EKFGz-24" connectable="0" vertex="1">
+        <mxCell id="mtDc0xT71T_Rfm2EKFGz-25" value="FTTH" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-30;rounded=1;" parent="mtDc0xT71T_Rfm2EKFGz-24" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
@@ -524,7 +524,7 @@
             <mxPoint x="656" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZYnGMTpdF-elsgq9s0X-13" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-12">
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-13" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=30;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -535,13 +535,13 @@
             <mxPoint x="666" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZYnGMTpdF-elsgq9s0X-15" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-14">
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-15" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=55;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PZYnGMTpdF-elsgq9s0X-16" value="Desktop - Gilberto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="693.44" y="480.75" width="60" height="30" as="geometry" />
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-16" value="Desktop - Leandro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="693.44" y="478" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PZYnGMTpdF-elsgq9s0X-17" value="Roteador&lt;br&gt;Fazenda Morena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="688.44" y="620.47" width="70" height="30" as="geometry" />
@@ -576,6 +576,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-26" value="Notebook -&amp;nbsp;&lt;br&gt;Meire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540.9300000000001" y="765.79" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-27" value="Impressora&lt;br&gt;Brother 1617nw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="743.75" y="765.79" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
