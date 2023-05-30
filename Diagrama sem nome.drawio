@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:24:22.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qYkh1OBLcVCNVLXKHWsG" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:26:00.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oXPYF6YIASiw-8QReSkg" version="21.3.5" type="github">
   <diagram name="Página-1" id="6-PplMMaVUPobBZW0QeX">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -778,6 +778,17 @@
         </mxCell>
         <mxCell id="aGssinBcjzBTIqjV_iW2-6" value="Desktop - Pivozeiro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="764.37" y="487.18999999999994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGssinBcjzBTIqjV_iW2-7" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="8iISEX3J9LfXSxGd36D7-13" target="aGssinBcjzBTIqjV_iW2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578" y="680" as="sourcePoint" />
+            <mxPoint x="729" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGssinBcjzBTIqjV_iW2-8" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-40;rounded=1;" connectable="0" vertex="1" parent="aGssinBcjzBTIqjV_iW2-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
