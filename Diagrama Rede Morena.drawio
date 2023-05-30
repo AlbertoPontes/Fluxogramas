@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:04:10.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="unGtFIxxIDTNMnFFiE19" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:06:55.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uvf3GnvsrhbACJ1-_p8P" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -481,6 +481,39 @@
         </mxCell>
         <mxCell id="PZYnGMTpdF-elsgq9s0X-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="651.25" y="630.0000000000001" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-3" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" source="EAprUsOKvEmy7xqBj63X-44" target="EAprUsOKvEmy7xqBj63X-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="sourcePoint" />
+            <mxPoint x="380" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-4" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-5" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=default;dashed=1;" edge="1" parent="1" source="EAprUsOKvEmy7xqBj63X-44" target="EAprUsOKvEmy7xqBj63X-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="530" as="sourcePoint" />
+            <mxPoint x="375" y="908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-6" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=35;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-7" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=default;dashed=1;" edge="1" parent="1" source="EAprUsOKvEmy7xqBj63X-44" target="PZYnGMTpdF-elsgq9s0X-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278" y="869" as="sourcePoint" />
+            <mxPoint x="385" y="918" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-8" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=50;rounded=1;" connectable="0" vertex="1" parent="PZYnGMTpdF-elsgq9s0X-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
