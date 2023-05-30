@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:38:14.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TH1og5MTurEHy0cUXc1t" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T20:39:22.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WxLgPU3W8e64eBtVSnoz" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,8 +589,8 @@
         <mxCell id="PZYnGMTpdF-elsgq9s0X-29" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="561.0000000000001" y="372.49999999999994" width="44.38" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="PZYnGMTpdF-elsgq9s0X-31" value="Roteador&lt;br&gt;Lab Morena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="501.62000000000006" y="384.69" width="70" height="30" as="geometry" />
+        <mxCell id="PZYnGMTpdF-elsgq9s0X-31" value="Roteador&lt;br&gt;Rede&lt;br&gt;Monitorada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="501.62000000000006" y="389.69" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PZYnGMTpdF-elsgq9s0X-32" value="Desktop - Laboratório&lt;br&gt;Morena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="506.62000000000006" y="310" width="60" height="30" as="geometry" />
