@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:35:37.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EKNanISHc_Xr_5gJhj7k" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:37:52.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kyXuSZ-h1MbPz1tBZDJV" version="21.3.5" type="github">
   <diagram name="Página-1" id="kqtkgq784HLdi7vzzQb3">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
             <mxPoint x="269.06" y="533.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EAprUsOKvEmy7xqBj63X-2" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=10;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-1">
+        <mxCell id="EAprUsOKvEmy7xqBj63X-2" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=50;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -507,7 +507,7 @@
             <mxPoint x="320" y="770.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EAprUsOKvEmy7xqBj63X-6" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=-15;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-5">
+        <mxCell id="EAprUsOKvEmy7xqBj63X-6" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=45;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -569,6 +569,23 @@
         <mxCell id="EAprUsOKvEmy7xqBj63X-25" value="CAT5e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=15;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAprUsOKvEmy7xqBj63X-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="801.56" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EAprUsOKvEmy7xqBj63X-27" value="Desktop - Rodrigo TST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414.00000000000006" y="806.5600000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAprUsOKvEmy7xqBj63X-28" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=default;dashed=1;" edge="1" parent="1" source="EAprUsOKvEmy7xqBj63X-19" target="EAprUsOKvEmy7xqBj63X-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261" y="608" as="sourcePoint" />
+            <mxPoint x="387" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAprUsOKvEmy7xqBj63X-29" value="Wireless" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=60;rounded=1;" connectable="0" vertex="1" parent="EAprUsOKvEmy7xqBj63X-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
